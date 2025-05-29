@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.17.32",
-    "mastra": "^0.10.1",
+    "mastra": "0.0.0-inject-middleware-20250528222017",
     "typescript": "^5.8.3"
   }
 }
